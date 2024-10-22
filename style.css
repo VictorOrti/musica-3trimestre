@@ -1,8 +1,18 @@
-/* Estilos gerais */
 body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background-color: #f0f0f0;
-}
+    background-color: #1F1F1F;
+  }
+  
+  title {
+    color: #585757;
+    text-align: center;
+  }
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    color: #514745;
+  }
